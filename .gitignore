@@ -12,3 +12,5 @@
 *.vsix
 
 GL_4_5_TESTS.code-workspace
+.prettierrc
+build
