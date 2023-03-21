@@ -1,16 +1,4 @@
 {
-    "files.associations": {
-        "*.embeddedhtml": "html",
-        "m-dict.h": "c",
-        "time.h": "c",
-        "assert.h": "c",
-        "m-string.h": "c",
-        "util.h": "c",
-        "common.h": "c",
-        "stdbool.h": "c",
-        "defs.h": "c",
-        "logger.h": "c"
-    },
     "editor.fontFamily": "Fira Code Retina",
     "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
     "editor.fontWeight": "450",
